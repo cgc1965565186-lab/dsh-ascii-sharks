@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="sea" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0e2b45"/>
+      <stop offset="1" stop-color="#071625"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="14" fill="url(#sea)"/>
+  <g stroke="#6ee6ff" stroke-opacity=".22" stroke-width=".6">
+    <path d="M0 16h64M0 32h64M0 48h64"/>
+    <path d="M16 0v64M32 0v64M48 0v64"/>
+  </g>
+  <path d="M12 32 7 25l2 7-2 7z" fill="#e8f4ff"/>
+  <path d="M14 32c5-8 14-11 24-8l15 8-15 8c-10 3-19 0-24-8z" fill="#e8f4ff"/>
+  <path d="M31 23l3-8 5 10z" fill="#bcd9ea"/>
+  <path d="M31 41l-3 8 7-6z" fill="#bcd9ea"/>
+  <circle cx="45" cy="30" r="1.8" fill="#0b1a2b"/>
+  <path d="M22 36c4 3 10 4 16 2" fill="none" stroke="#0b1a2b" stroke-opacity=".35" stroke-width="1.4"/>
+  <g fill="#6ee6ff" opacity=".85">
+    <rect x="50" y="14" width="2" height="2"/>
+    <rect x="44" y="52" width="2" height="2"/>
+    <rect x="10" y="48" width="2" height="2"/>
+  </g>
+</svg>
