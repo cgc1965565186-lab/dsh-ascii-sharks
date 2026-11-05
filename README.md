@@ -80,3 +80,6 @@ node --check ../ascii-sharks-plugin/client.js
 （TypeScript 源）。**上游仓库没有 LICENSE 文件**，因此移植过来的模拟代码不附带
 额外许可；Harness 集成部分（插件清单、水域测量、主题适配、涟漪渲染、入口/引擎）
 是为本项目新写的。详见 [NOTICE.md](NOTICE.md)。
+
+本项目新写的 Harness 集成部分以 **MIT** 许可发布，见 [LICENSE](LICENSE)（许可范围仅限项目原创代码）；
+移植的模拟代码不在许可范围内，仍受上游作者条款约束。
